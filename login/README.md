@@ -23,3 +23,5 @@ $ npm run generate
 ```
 
 That's it.
+
+Login:pass for test login ```Worker123:123456789aa```, you can change it in ```user.json```
